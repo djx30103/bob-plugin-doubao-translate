@@ -1,1 +1,1 @@
-{}
+{ "versions": [ { "version": "1.0.0", "desc": "None", "sha256": "feb47c2732290da443911cf76db808a60451e79f315521798c846ef1f5fe4f11", "url": "https://github.com/djx30103/bob-plugin-doubao-translate/releases/download/v1.0.0/bob-plugin-doubao-translate-1.0.0.bobplugin", "minBobVersion": "1.8.0" } ] }
